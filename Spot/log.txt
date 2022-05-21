@@ -1,0 +1,296 @@
+ENJUSDT, alindi. Saat: Thu Apr 14 17:00:08 2022
+LUNAUSDT, alindi. Saat: Thu Apr 14 17:00:09 2022
+CHZUSDT, alindi. Saat: Thu Apr 14 17:00:09 2022
+ATOMUSDT, alindi. Saat: Thu Apr 14 17:00:10 2022
+SOLUSDT, alindi. Saat: Thu Apr 14 17:00:12 2022
+ATOMUSDT, alindi. Saat: Thu Apr 14 17:15:26 2022
+KAVAUSDT, alindi. Saat: Thu Apr 14 18:45:04 2022
+ARPAUSDT, alindi. Saat: Thu Apr 14 18:45:17 2022
+LUNAUSDT, alindi. Saat: Thu Apr 14 19:00:14 2022
+CHZUSDT, alindi. Saat: Thu Apr 14 19:00:16 2022
+KAVAUSDT, alindi. Saat: Fri Apr 15 03:15:04 2022
+KAVAUSDT, satýldý, Saat: Fri Apr 15 04:37:52 2022
+HOTUSDT, alindi. Saat: Fri Apr 15 09:45:14 2022
+CHZUSDT, alindi. Saat: Fri Apr 15 17:30:04 2022
+SOLUSDT, alindi. Saat: Fri Apr 15 19:15:09 2022
+LRCUSDT, alindi. Saat: Sat Apr 16 17:45:08 2022
+LRCUSDT, alindi. Saat: Sat Apr 16 18:15:07 2022
+ATOMUSDT, alindi. Saat: Sat Apr 16 18:30:16 2022
+ENJUSDT, alindi. Saat: Sat Apr 16 18:45:07 2022
+KAVAUSDT, alindi. Saat: Mon Apr 18 07:00:18 2022
+CHZUSDT,  Stop oldun, Saat: Mon Apr 18 08:00:15 2022
+HOTUSDT, alindi. Saat: Mon Apr 18 08:00:23 2022
+LRCUSDT, satýldý, Saat: Mon Apr 18 17:28:00 2022
+ENJUSDT, alindi. Saat: Mon Apr 18 18:30:07 2022
+LUNAUSDT, satýldý, Saat: Mon Apr 18 19:24:02 2022
+LRCUSDT, alindi. Saat: Mon Apr 18 20:00:07 2022
+HOTUSDT, satýldý, Saat: Mon Apr 18 21:07:35 2022
+LRCUSDT, alindi. Saat: Tue Apr 19 00:45:16 2022
+LRCUSDT, satýldý, Saat: Tue Apr 19 01:43:26 2022
+LRCUSDT, alindi. Saat: Tue Apr 19 02:45:07 2022
+LUNAUSDT, alindi. Saat: Tue Apr 19 04:45:14 2022
+KAVAUSDT, alindi. Saat: Tue Apr 19 05:00:13 2022
+HOTUSDT, alindi. Saat: Tue Apr 19 05:15:12 2022
+ENJUSDT, satýldý, Saat: Tue Apr 19 13:02:35 2022
+SOLUSDT, satýldý, Saat: Tue Apr 19 17:07:48 2022
+KAVAUSDT, satýldý, Saat: Tue Apr 19 17:07:50 2022
+ATOMUSDT, satýldý, Saat: Tue Apr 19 17:14:37 2022
+HOTUSDT, alindi. Saat: Tue Apr 19 20:15:17 2022
+KAVAUSDT, alindi. Saat: Tue Apr 19 20:30:09 2022
+KAVAUSDT, alindi. Saat: Wed Apr 20 03:30:17 2022
+LRCUSDT, alindi. Saat: Wed Apr 20 04:00:03 2022
+LUNAUSDT, alindi. Saat: Wed Apr 20 04:00:20 2022
+LRCUSDT, satýldý, Saat: Wed Apr 20 05:56:43 2022
+LRCUSDT, alindi. Saat: Wed Apr 20 06:30:20 2022
+LUNAUSDT, satýldý, Saat: Wed Apr 20 08:27:09 2022
+LRCUSDT, alindi. Saat: Wed Apr 20 11:45:07 2022
+HOTUSDT, satýldý, Saat: Wed Apr 20 13:26:10 2022
+CHZUSDT, alindi. Saat: Wed Apr 20 15:15:14 2022
+CHZUSDT, alindi. Saat: Wed Apr 20 16:45:05 2022
+KAVAUSDT, alindi. Saat: Wed Apr 20 16:45:09 2022
+ARPAUSDT, alindi. Saat: Wed Apr 20 16:45:10 2022
+HOTUSDT, alindi. Saat: Wed Apr 20 16:45:11 2022
+ARPAUSDT, satýldý, Saat: Wed Apr 20 17:00:11 2022
+HOTUSDT, alindi. Saat: Wed Apr 20 18:15:04 2022
+SOLUSDT, alindi. Saat: Wed Apr 20 18:15:08 2022
+CHZUSDT, alindi. Saat: Wed Apr 20 18:15:11 2022
+ENJUSDT, alindi. Saat: Wed Apr 20 18:15:13 2022
+KAVAUSDT, satýldý, Saat: Thu Apr 21 03:45:28 2022
+KAVAUSDT, alindi. Saat: Thu Apr 21 04:30:11 2022
+LRCUSDT, alindi. Saat: Thu Apr 21 09:00:12 2022
+RENUSDT, alindi. Saat: Thu Apr 21 09:12:12 2022
+ARPAUSDT, alindi. Saat: Thu Apr 21 12:45:08 2022
+CHZUSDT, satýldý, Saat: Thu Apr 21 14:41:55 2022
+RENUSDT, alindi. Saat: Thu Apr 21 15:15:21 2022
+RENUSDT, satýldý, Saat: Thu Apr 21 16:20:55 2022
+HOTUSDT, satýldý, Saat: Thu Apr 21 16:34:31 2022
+KAVAUSDT, alindi. Saat: Thu Apr 21 16:45:19 2022
+SOLUSDT, alindi. Saat: Thu Apr 21 17:15:19 2022
+KAVAUSDT, alindi. Saat: Thu Apr 21 17:15:22 2022
+ARPAUSDT, alindi. Saat: Thu Apr 21 17:45:08 2022
+RENUSDT, alindi. Saat: Thu Apr 21 18:45:12 2022
+RENUSDT,  Stop oldun, Saat: Fri Apr 22 19:11:29 2022
+LUNAUSDT, alindi. Saat: Fri Apr 22 19:15:14 2022
+KAVAUSDT, satýldý, Saat: Sat Apr 23 10:55:06 2022
+KAVAUSDT, alindi. Saat: Sat Apr 23 12:30:25 2022
+ARPAUSDT, alindi. Saat: Sat Apr 23 13:15:11 2022
+LUNAUSDT, alindi. Saat: Sat Apr 23 15:15:16 2022
+ENJUSDT,  Stop oldun, Saat: Mon Apr 25 03:23:07 2022
+HOTUSDT, alindi. Saat: Mon Apr 25 03:23:18 2022
+LRCUSDT,  Stop oldun, Saat: Mon Apr 25 03:23:28 2022
+ARPAUSDT, alindi. Saat: Mon Apr 25 03:23:33 2022
+RENUSDT, alindi. Saat: Mon Apr 25 03:23:39 2022
+SOLUSDT,  Stop oldun, Saat: Mon Apr 25 03:24:44 2022
+CHZUSDT, alindi. Saat: Mon Apr 25 03:30:05 2022
+ENJUSDT, alindi. Saat: Mon Apr 25 03:38:14 2022
+LRCUSDT, alindi. Saat: Mon Apr 25 03:38:34 2022
+LUNAUSDT, satýldý, Saat: Mon Apr 25 19:25:25 2022
+KAVAUSDT, alindi. Saat: Tue Apr 26 01:15:24 2022
+KAVAUSDT, satýldý, Saat: Tue Apr 26 01:30:26 2022
+KAVAUSDT, alindi. Saat: Tue Apr 26 01:30:44 2022
+KAVAUSDT, alindi. Saat: Tue Apr 26 08:15:18 2022
+LUNAUSDT, alindi. Saat: Tue Apr 26 16:00:15 2022
+ARPAUSDT,  Stop oldun, Saat: Tue Apr 26 22:28:36 2022
+KAVAUSDT, alindi. Saat: Tue Apr 26 22:30:10 2022
+LRCUSDT, alindi. Saat: Tue Apr 26 22:45:09 2022
+ENJUSDT, alindi. Saat: Tue Apr 26 22:45:14 2022
+ARPAUSDT, alindi. Saat: Tue Apr 26 22:45:18 2022
+SOLUSDT, alindi. Saat: Tue Apr 26 23:15:04 2022
+LRCUSDT, satýldý, Saat: Wed Apr 27 09:50:38 2022
+LRCUSDT, alindi. Saat: Wed Apr 27 11:30:07 2022
+HOTUSDT, alindi. Saat: Wed Apr 27 11:30:10 2022
+KAVAUSDT, satýldý, Saat: Thu Apr 28 11:51:41 2022
+CHZUSDT, alindi. Saat: Thu Apr 28 16:15:07 2022
+SOLUSDT, alindi. Saat: Thu Apr 28 16:15:07 2022
+KAVAUSDT, alindi. Saat: Thu Apr 28 16:15:08 2022
+RENUSDT, alindi. Saat: Thu Apr 28 16:15:11 2022
+LRCUSDT,  Stop oldun, Saat: Sat Apr 30 20:16:12 2022
+ENJUSDT,  Stop oldun, Saat: Sun May  1 01:02:03 2022
+HOTUSDT, alindi. Saat: Sun May  1 01:15:11 2022
+RENUSDT,  Stop oldun, Saat: Sun May  1 01:55:28 2022
+LRCUSDT, alindi. Saat: Sun May  1 02:00:04 2022
+SOLUSDT, alindi. Saat: Sun May  1 02:00:11 2022
+LUNAUSDT,  Stop oldun, Saat: Sun May  1 02:00:19 2022
+CHZUSDT,  Stop oldun, Saat: Sun May  1 02:06:14 2022
+LUNAUSDT,  Stop oldun, Saat: Sun May  1 02:06:24 2022
+KAVAUSDT, alindi. Saat: Sun May  1 02:06:26 2022
+ENJUSDT, alindi. Saat: Sun May  1 02:06:32 2022
+RENUSDT, alindi. Saat: Sun May  1 02:15:10 2022
+LUNAUSDT,  Stop oldun, Saat: Sun May  1 23:54:57 2022
+CHZUSDT, alindi. Saat: Mon May  2 14:15:15 2022
+HOTUSDT, satýldý, Saat: Wed May  4 22:08:28 2022
+ARPAUSDT, alindi. Saat: Thu May  5 00:45:18 2022
+RENUSDT, alindi. Saat: Thu May  5 00:45:20 2022
+RENUSDT, satýldý, Saat: Thu May  5 01:00:25 2022
+LRCUSDT, alindi. Saat: Thu May  5 01:45:14 2022
+LRCUSDT, satýldý, Saat: Thu May  5 02:00:19 2022
+SOLUSDT, satýldý, Saat: Thu May  5 03:34:09 2022
+LRCUSDT, alindi. Saat: Thu May  5 05:00:17 2022
+RENUSDT, alindi. Saat: Thu May  5 05:00:20 2022
+KAVAUSDT, alindi. Saat: Thu May  5 07:00:13 2022
+SOLUSDT, alindi. Saat: Thu May  5 07:15:09 2022
+HOTUSDT, alindi. Saat: Thu May  5 08:45:10 2022
+LRCUSDT, alindi. Saat: Thu May  5 09:00:04 2022
+KAVAUSDT, alindi. Saat: Thu May  5 09:00:08 2022
+CHZUSDT, alindi. Saat: Thu May  5 09:00:14 2022
+CHZUSDT, satýldý, Saat: Thu May  5 09:15:18 2022
+LRCUSDT, alindi. Saat: Thu May  5 11:45:10 2022
+LRCUSDT, satýldý, Saat: Thu May  5 15:44:05 2022
+LRCUSDT, alindi. Saat: Thu May  5 16:15:18 2022
+LRCUSDT, alindi. Saat: Thu May  5 16:30:26 2022
+KAVAUSDT, alindi. Saat: Thu May  5 16:45:09 2022
+KAVAUSDT,  Stop oldun, Saat: Fri May  6 10:39:30 2022
+HOTUSDT, alindi. Saat: Fri May  6 10:45:11 2022
+LUNAUSDT, alindi. Saat: Fri May  6 10:45:14 2022
+ENJUSDT, alindi. Saat: Fri May  6 10:45:16 2022
+RENUSDT, alindi. Saat: Fri May  6 10:45:22 2022
+KAVAUSDT, alindi. Saat: Fri May  6 10:54:37 2022
+LRCUSDT,  Stop oldun, Saat: Fri May  6 14:26:54 2022
+CHZUSDT, alindi. Saat: Fri May  6 14:26:59 2022
+LUNAUSDT, alindi. Saat: Fri May  6 14:27:00 2022
+SOLUSDT,  Stop oldun, Saat: Sat May  7 07:56:51 2022
+LRCUSDT, alindi. Saat: Sat May  7 08:00:15 2022
+ARPAUSDT,  Stop oldun, Saat: Sun May  8 00:51:24 2022
+LUNAUSDT,  Stop oldun, Saat: Sun May  8 00:52:45 2022
+LUNAUSDT, alindi. Saat: Sun May  8 01:07:52 2022
+KAVAUSDT, alindi. Saat: Sun May  8 01:30:14 2022
+RENUSDT,  Stop oldun, Saat: Mon May  9 13:28:31 2022
+ENJUSDT,  Stop oldun, Saat: Mon May  9 13:28:34 2022
+HOTUSDT, alindi. Saat: Mon May  9 13:28:36 2022
+LRCUSDT, alindi. Saat: Mon May  9 13:28:47 2022
+SOLUSDT, alindi. Saat: Mon May  9 13:30:13 2022
+KAVAUSDT,  Stop oldun, Saat: Mon May  9 13:34:06 2022
+CHZUSDT, alindi. Saat: Mon May  9 13:34:17 2022
+LUNAUSDT,  Stop oldun, Saat: Mon May  9 18:36:06 2022
+RENUSDT, alindi. Saat: Mon May  9 18:36:21 2022
+LRCUSDT,  Stop oldun, Saat: Mon May  9 21:42:30 2022
+ARPAUSDT, alindi. Saat: Mon May  9 21:42:37 2022
+RENUSDT, alindi. Saat: Mon May  9 21:42:38 2022
+CHZUSDT,  Stop oldun, Saat: Mon May  9 21:43:07 2022
+KAVAUSDT, alindi. Saat: Mon May  9 21:43:11 2022
+LUNAUSDT, alindi. Saat: Mon May  9 21:43:13 2022
+ENJUSDT, alindi. Saat: Mon May  9 21:43:15 2022
+HOTUSDT,  Stop oldun, Saat: Mon May  9 21:44:03 2022
+LRCUSDT, alindi. Saat: Mon May  9 21:57:37 2022
+SOLUSDT, alindi. Saat: Mon May  9 21:57:55 2022
+ARPAUSDT, alindi. Saat: Mon May  9 21:57:57 2022
+ARPAUSDT, satýldý, Saat: Mon May  9 23:10:56 2022
+RENUSDT, satýldý, Saat: Mon May  9 23:14:01 2022
+SOLUSDT, alindi. Saat: Mon May  9 23:45:07 2022
+KAVAUSDT, alindi. Saat: Mon May  9 23:45:10 2022
+ARPAUSDT, alindi. Saat: Mon May  9 23:45:11 2022
+KAVAUSDT, satýldý, Saat: Tue May 10 00:09:51 2022
+LUNAUSDT, alindi. Saat: Tue May 10 00:30:20 2022
+LUNAUSDT,  Stop oldun, Saat: Tue May 10 02:07:45 2022
+ARPAUSDT, alindi. Saat: Tue May 10 02:07:56 2022
+LRCUSDT, alindi. Saat: Tue May 10 02:07:58 2022
+ARPAUSDT, satýldý, Saat: Tue May 10 07:37:45 2022
+SOLUSDT, satýldý, Saat: Tue May 10 08:07:16 2022
+LRCUSDT, satýldý, Saat: Tue May 10 08:37:35 2022
+ENJUSDT, alindi. Saat: Tue May 10 10:15:06 2022
+LUNAUSDT, alindi. Saat: Tue May 10 10:15:12 2022
+HOTUSDT, alindi. Saat: Tue May 10 10:15:19 2022
+ARPAUSDT, alindi. Saat: Tue May 10 10:15:25 2022
+CHZUSDT, alindi. Saat: Tue May 10 10:30:14 2022
+RENUSDT, alindi. Saat: Tue May 10 10:30:14 2022
+ENJUSDT, alindi. Saat: Tue May 10 10:30:14 2022
+SOLUSDT, alindi. Saat: Tue May 10 10:30:17 2022
+KAVAUSDT, alindi. Saat: Tue May 10 10:45:05 2022
+ENJUSDT, satýldý, Saat: Tue May 10 11:09:47 2022
+SOLUSDT, alindi. Saat: Tue May 10 11:09:50 2022
+LRCUSDT, alindi. Saat: Tue May 10 11:09:55 2022
+KAVAUSDT, alindi. Saat: Tue May 10 12:00:07 2022
+SOLUSDT, satýldý, Saat: Tue May 10 14:37:36 2022
+LUNAUSDT, alindi. Saat: Tue May 10 15:15:17 2022
+LUNAUSDT, satýldý, Saat: Tue May 10 15:38:11 2022
+KAVAUSDT, satýldý, Saat: Tue May 10 15:54:18 2022
+LRCUSDT, alindi. Saat: Tue May 10 16:45:04 2022
+KAVAUSDT, alindi. Saat: Tue May 10 16:45:07 2022
+LUNAUSDT, alindi. Saat: Tue May 10 16:45:16 2022
+ENJUSDT, alindi. Saat: Tue May 10 16:45:20 2022
+RENUSDT, alindi. Saat: Tue May 10 16:45:24 2022
+ARPAUSDT, alindi. Saat: Tue May 10 16:45:25 2022
+LUNAUSDT,  Stop oldun, Saat: Tue May 10 22:06:19 2022
+KAVAUSDT,  Stop oldun, Saat: Wed May 11 09:48:41 2022
+SOLUSDT, alindi. Saat: Wed May 11 09:48:48 2022
+ARPAUSDT,  Stop oldun, Saat: Wed May 11 09:56:28 2022
+LRCUSDT, alindi. Saat: Wed May 11 09:56:37 2022
+ENJUSDT,  Stop oldun, Saat: Wed May 11 09:59:07 2022
+LUNAUSDT, alindi. Saat: Wed May 11 09:59:12 2022
+RENUSDT,  Stop oldun, Saat: Wed May 11 10:07:13 2022
+KAVAUSDT, alindi. Saat: Wed May 11 10:07:17 2022
+ARPAUSDT, alindi. Saat: Wed May 11 10:11:34 2022
+LUNAUSDT,  Stop oldun, Saat: Wed May 11 10:20:32 2022
+RENUSDT, alindi. Saat: Wed May 11 10:30:07 2022
+CHZUSDT,  Stop oldun, Saat: Wed May 11 10:36:46 2022
+CHZUSDT, alindi. Saat: Wed May 11 10:51:51 2022
+HOTUSDT,  Stop oldun, Saat: Wed May 11 15:32:57 2022
+LRCUSDT,  Stop oldun, Saat: Wed May 11 15:38:38 2022
+KAVAUSDT,  Stop oldun, Saat: Wed May 11 15:42:04 2022
+SOLUSDT,  Stop oldun, Saat: Wed May 11 15:42:41 2022
+ARPAUSDT, alindi. Saat: Wed May 11 15:45:12 2022
+LUNAUSDT, alindi. Saat: Wed May 11 15:45:13 2022
+ENJUSDT, alindi. Saat: Wed May 11 15:45:16 2022
+CHZUSDT, alindi. Saat: Wed May 11 15:45:16 2022
+HOTUSDT, alindi. Saat: Wed May 11 15:48:02 2022
+KAVAUSDT, alindi. Saat: Wed May 11 15:57:10 2022
+LUNAUSDT,  Stop oldun, Saat: Wed May 11 16:00:29 2022
+ARPAUSDT, satýldý, Saat: Wed May 11 16:44:52 2022
+CHZUSDT, satýldý, Saat: Wed May 11 16:49:23 2022
+SOLUSDT, alindi. Saat: Wed May 11 17:15:11 2022
+ENJUSDT, alindi. Saat: Wed May 11 17:15:14 2022
+ARPAUSDT, alindi. Saat: Wed May 11 17:15:16 2022
+HOTUSDT, alindi. Saat: Wed May 11 17:15:18 2022
+LRCUSDT, alindi. Saat: Wed May 11 17:30:06 2022
+HOTUSDT, satýldý, Saat: Wed May 11 17:36:44 2022
+KAVAUSDT, alindi. Saat: Wed May 11 17:36:46 2022
+HOTUSDT, alindi. Saat: Wed May 11 17:36:58 2022
+ENJUSDT, satýldý, Saat: Wed May 11 17:46:16 2022
+KAVAUSDT, satýldý, Saat: Wed May 11 17:51:50 2022
+HOTUSDT, alindi. Saat: Wed May 11 18:15:04 2022
+SOLUSDT, alindi. Saat: Wed May 11 18:15:05 2022
+LRCUSDT, alindi. Saat: Wed May 11 18:15:07 2022
+RENUSDT,  Stop oldun, Saat: Wed May 11 20:46:21 2022
+ENJUSDT, alindi. Saat: Wed May 11 20:46:25 2022
+ARPAUSDT,  Stop oldun, Saat: Wed May 11 22:20:41 2022
+RENUSDT, alindi. Saat: Wed May 11 22:20:52 2022
+SOLUSDT,  Stop oldun, Saat: Wed May 11 22:38:25 2022
+LUNAUSDT, alindi. Saat: Wed May 11 22:38:30 2022
+ARPAUSDT, alindi. Saat: Wed May 11 22:38:38 2022
+LRCUSDT,  Stop oldun, Saat: Wed May 11 23:54:00 2022
+SOLUSDT, alindi. Saat: Wed May 11 23:54:10 2022
+HOTUSDT,  Stop oldun, Saat: Wed May 11 23:56:08 2022
+RENUSDT, alindi. Saat: Wed May 11 23:56:11 2022
+ENJUSDT, alindi. Saat: Thu May 12 00:00:04 2022
+ENJUSDT, satýldý, Saat: Thu May 12 00:51:53 2022
+LUNAUSDT, alindi. Saat: Thu May 12 01:45:08 2022
+HOTUSDT, alindi. Saat: Thu May 12 01:45:09 2022
+RENUSDT, satýldý, Saat: Thu May 12 03:27:02 2022
+LUNAUSDT, satýldý, Saat: Thu May 12 03:35:47 2022
+SOLUSDT, alindi. Saat: Thu May 12 04:15:06 2022
+CHZUSDT, alindi. Saat: Thu May 12 04:15:08 2022
+ENJUSDT, alindi. Saat: Thu May 12 04:15:09 2022
+HOTUSDT, alindi. Saat: Thu May 12 04:30:09 2022
+SOLUSDT, satýldý, Saat: Thu May 12 04:30:11 2022
+CHZUSDT, alindi. Saat: Thu May 12 04:30:27 2022
+KAVAUSDT, alindi. Saat: Thu May 12 04:30:29 2022
+KAVAUSDT,  Stop oldun, Saat: Thu May 12 07:03:56 2022
+CHZUSDT,  Stop oldun, Saat: Thu May 12 07:09:01 2022
+ENJUSDT,  Stop oldun, Saat: Thu May 12 07:13:40 2022
+HOTUSDT,  Stop oldun, Saat: Thu May 12 07:14:27 2022
+LRCUSDT, alindi. Saat: Thu May 12 07:15:07 2022
+LUNAUSDT, alindi. Saat: Thu May 12 07:15:07 2022
+SOLUSDT, alindi. Saat: Thu May 12 07:15:08 2022
+KAVAUSDT, alindi. Saat: Thu May 12 07:19:02 2022
+CHZUSDT, alindi. Saat: Thu May 12 07:24:06 2022
+ENJUSDT, alindi. Saat: Thu May 12 07:28:47 2022
+HOTUSDT, alindi. Saat: Thu May 12 07:29:32 2022
+LUNAUSDT,  Stop oldun, Saat: Thu May 12 07:38:22 2022
+LUNAUSDT, alindi. Saat: Thu May 12 07:53:27 2022
+LUNAUSDT,  Stop oldun, Saat: Thu May 12 08:11:38 2022
+RENUSDT, alindi. Saat: Thu May 12 08:12:01 2022
+ARPAUSDT,  Stop oldun, Saat: Thu May 12 09:53:24 2022
+LUNAUSDT, alindi. Saat: Thu May 12 09:53:36 2022
+LUNAUSDT,  Stop oldun, Saat: Thu May 12 10:11:47 2022
+ARPAUSDT, alindi. Saat: Thu May 12 10:12:01 2022
+SOLUSDT,  Stop oldun, Saat: Thu May 12 10:17:30 2022
