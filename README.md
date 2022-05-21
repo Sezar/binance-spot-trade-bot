@@ -7,6 +7,7 @@ Botun algoritması 200 coinin 1 yıllık verisi indirilerek hazırlanmıştır, 
 Gerekli moduller:
 
 pip install python-binance
+
 pip install pandas
 
 Log kısmını silmek istemedim fakat LUNA coinin ani düşüşü sebebiyle log yazılarında çok fazla stop yazıldı, çoğunu sildim.
